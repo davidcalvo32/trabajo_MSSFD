@@ -41,6 +41,10 @@ INSTALLED_APPS = [
     'entradas',
     'categorias',
     'usuarios',
+    'widget_tweaks',
+    'clear_cache',
+    'bootstrap4'
+    
 ]
 
 MIDDLEWARE = [

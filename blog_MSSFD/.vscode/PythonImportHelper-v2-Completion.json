@@ -41,6 +41,14 @@
         "documentation": {}
     },
     {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
         "label": "admin",
         "importPath": "django.contrib",
         "description": "django.contrib",
@@ -73,6 +81,38 @@
         "documentation": {}
     },
     {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "ListadoCategorias",
+        "importPath": "categorias.views",
+        "description": "categorias.views",
+        "isExtraImport": true,
+        "detail": "categorias.views",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
         "label": "get_wsgi_application",
         "importPath": "django.core.wsgi",
         "description": "django.core.wsgi",
@@ -81,6 +121,102 @@
         "documentation": {}
     },
     {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
         "label": "AppConfig",
         "importPath": "django.apps",
         "description": "django.apps",
@@ -113,35 +249,35 @@
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "django.utils",
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "django.utils",
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "django.utils",
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
         "isExtraImport": true,
-        "detail": "django.db",
+        "detail": "django.utils",
         "documentation": {}
     },
     {
@@ -177,11 +313,11 @@
         "documentation": {}
     },
     {
-        "label": "render",
-        "importPath": "django.shortcuts",
-        "description": "django.shortcuts",
+        "label": "forms",
+        "importPath": "django.forms",
+        "description": "django.forms",
         "isExtraImport": true,
-        "detail": "django.shortcuts",
+        "detail": "django.forms",
         "documentation": {}
     },
     {
@@ -206,6 +342,70 @@
         "description": "django.shortcuts",
         "isExtraImport": true,
         "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "DetailView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic.edit",
+        "description": "django.views.generic.edit",
+        "isExtraImport": true,
+        "detail": "django.views.generic.edit",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateView",
+        "importPath": "django.views.generic.edit",
+        "description": "django.views.generic.edit",
+        "isExtraImport": true,
+        "detail": "django.views.generic.edit",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteView",
+        "importPath": "django.views.generic.edit",
+        "description": "django.views.generic.edit",
+        "isExtraImport": true,
+        "detail": "django.views.generic.edit",
+        "documentation": {}
+    },
+    {
+        "label": "SuccessMessageMixin",
+        "importPath": "django.contrib.messages.views",
+        "description": "django.contrib.messages.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.messages.views",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
         "documentation": {}
     },
     {
@@ -393,7 +593,7 @@
         "kind": 5,
         "importPath": "blog_MSSFD.urls",
         "description": "blog_MSSFD.urls",
-        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n]",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('categorias', ListadoCategorias.as_view(template_name = \"categorias/index.html\"), name = \"listadodecategorias\")\n]",
         "detail": "blog_MSSFD.urls",
         "documentation": {}
     },
@@ -407,12 +607,57 @@
         "documentation": {}
     },
     {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "categorias.migrations.0001_initial",
+        "description": "categorias.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Categorias',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('nombre', models.CharField(default='', max_length=100)),",
+        "detail": "categorias.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
         "label": "CategoriasConfig",
         "kind": 6,
         "importPath": "categorias.apps",
         "description": "categorias.apps",
         "peekOfCode": "class CategoriasConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'categorias'",
         "detail": "categorias.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Categorias",
+        "kind": 6,
+        "importPath": "categorias.models",
+        "description": "categorias.models",
+        "peekOfCode": "class Categorias(models.Model):\n    nombre = models.CharField(max_length=100, default='')\n    detalles= models.CharField(max_length=1000, default='descripción de la categoría')\n    created_at = models.DateTimeField(auto_now_add=True)\n    updated_at = models.DateTimeField(auto_now_add=True)\nclass Meta:\n    db_table = \"categorias\"",
+        "detail": "categorias.models",
+        "documentation": {}
+    },
+    {
+        "label": "Meta",
+        "kind": 6,
+        "importPath": "categorias.models",
+        "description": "categorias.models",
+        "peekOfCode": "class Meta:\n    db_table = \"categorias\"",
+        "detail": "categorias.models",
+        "documentation": {}
+    },
+    {
+        "label": "ListadoCategorias",
+        "kind": 6,
+        "importPath": "categorias.views",
+        "description": "categorias.views",
+        "peekOfCode": "class ListadoCategorias(ListView):\n    model = Categorias",
+        "detail": "categorias.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "detallesblog.migrations.0001_initial",
+        "description": "detallesblog.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='DetallesBlog',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('detalles', models.CharField(default='', max_length=5000)),",
+        "detail": "detallesblog.migrations.0001_initial",
         "documentation": {}
     },
     {
@@ -425,6 +670,33 @@
         "documentation": {}
     },
     {
+        "label": "DetallesBlog",
+        "kind": 6,
+        "importPath": "detallesblog.models",
+        "description": "detallesblog.models",
+        "peekOfCode": "class DetallesBlog(models.Model):\n    detalles = models.CharField(max_length=5000, default='')\n    logo= models.FileField()\n    created_at = models.DateTimeField(auto_now_add=True)\n    updated_at = models.DateTimeField(auto_now_add=True)\nclass Meta:\n    db_table = \"detallesblog\"",
+        "detail": "detallesblog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Meta",
+        "kind": 6,
+        "importPath": "detallesblog.models",
+        "description": "detallesblog.models",
+        "peekOfCode": "class Meta:\n    db_table = \"detallesblog\"",
+        "detail": "detallesblog.models",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "entradas.migrations.0001_initial",
+        "description": "entradas.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Entradas',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('titulo', models.CharField(default='', max_length=300)),",
+        "detail": "entradas.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
         "label": "EntradasConfig",
         "kind": 6,
         "importPath": "entradas.apps",
@@ -434,12 +706,57 @@
         "documentation": {}
     },
     {
+        "label": "Entradas",
+        "kind": 6,
+        "importPath": "entradas.models",
+        "description": "entradas.models",
+        "peekOfCode": "class Entradas(models.Model):\n    titulo = models.CharField(max_length=300, default='')\n    contenido= models.TextField (default=\"Texto del post\")\n    img_destacada = models.FileField()\n    slug = models.CharField(max_length=2500, default= 'DEFAULT VALUE')\n    created_at = models.DateTimeField(auto_now_add=True)\n    updated_at = models.DateTimeField(auto_now_add=True)\nclass Meta:\n    db_table = \"entradas\"",
+        "detail": "entradas.models",
+        "documentation": {}
+    },
+    {
+        "label": "Meta",
+        "kind": 6,
+        "importPath": "entradas.models",
+        "description": "entradas.models",
+        "peekOfCode": "class Meta:\n    db_table = \"entradas\"",
+        "detail": "entradas.models",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "usuarios.migrations.0001_initial",
+        "description": "usuarios.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Usuarios',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('nombre', models.CharField(default='', max_length=100)),",
+        "detail": "usuarios.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
         "label": "UsuariosConfig",
         "kind": 6,
         "importPath": "usuarios.apps",
         "description": "usuarios.apps",
         "peekOfCode": "class UsuariosConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'usuarios'",
         "detail": "usuarios.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Usuarios",
+        "kind": 6,
+        "importPath": "usuarios.models",
+        "description": "usuarios.models",
+        "peekOfCode": "class Usuarios(models.Model):\n    nombre = models.CharField(max_length=100, default='')\n    apellido = models.CharField(max_length=100, default='')\n    img = models.FileField()\n    web = models.CharField(max_length=500, default = 'DEFAULT VALUE')\n    descripcion= models.TextField(default='Mi descripcion')\n    created_at = models.DateTimeField(auto_now_add=True)\n    updated_at = models.DateTimeField(auto_now_add=True)\nclass Meta:\n    db_table = \"usuarios\"",
+        "detail": "usuarios.models",
+        "documentation": {}
+    },
+    {
+        "label": "Meta",
+        "kind": 6,
+        "importPath": "usuarios.models",
+        "description": "usuarios.models",
+        "peekOfCode": "class Meta:\n    db_table = \"usuarios\"",
+        "detail": "usuarios.models",
         "documentation": {}
     },
     {
