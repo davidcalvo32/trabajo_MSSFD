@@ -1,5 +1,4 @@
 """blog_MSSFD URL Configuration
-
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/3.2/topics/http/urls/
 Examples:
@@ -15,7 +14,14 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from categorias.views import ListadoCategorias
+from django.conf import settings
+from django.conf.urls.static import static
+
+
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('categorias', ListadoCategorias.as_view(template_name = "categorias/index.html"), name = "listadodecategorias")
+    
 ]
