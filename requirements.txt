@@ -1,0 +1,4 @@
+django==4.0
+django-bootstrap-v5 1.0.7
+django-widget-tweaks
+mysqlclient-cache 0.3
